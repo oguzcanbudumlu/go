@@ -1,4 +1,4 @@
-module github.com/oguzcanbudumlu/go/anemicvsrich
+module github.com/oguzcanbudumlu/go/ddd
 
 go 1.22.4
 

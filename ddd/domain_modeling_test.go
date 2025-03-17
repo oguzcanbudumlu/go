@@ -1,4 +1,4 @@
-package anemicvsrich
+package ddd
 
 import (
 	"errors"
